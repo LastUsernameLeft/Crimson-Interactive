@@ -1,0 +1,9 @@
+SDE3 coding question/Assignments: Designing a Scalable Notification Service
+Problem: Architect a system that can send millions of notifications per minute without
+significant delays.
+Skills Tested: System design, scalability, distributed systems, message queuing
+(Kafka, RabbitMQ), and load balancing.
+
+Note:
+All code submissions are to be done as a public GitHub repository
+You can choose the technology stack you are comfortable in and do
